@@ -6,7 +6,7 @@ Submitted by: **Vi Thi Tuong Nguyen**
 
 Time spent: **7** hours spent in total
 
-Link to project: (https://glitch.com/edit/#!/automatic-oceanic-tulip?path=README.md%3A1%3A0)
+Link to project: https://glitch.com/edit/#!/automatic-oceanic-tulip?path=README.md%3A1%3A0
 
 ## Required Functionality
 
@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](your-link-here)
+![](https://user-images.githubusercontent.com/65844160/111108884-f15b4f80-8516-11eb-92a3-85bfafe12a4a.gif)
 
 
 ## Reflection Questions
