@@ -4,9 +4,9 @@
 
 Submitted by: **Vi Thi Tuong Nguyen**
 
-Time spent: **6** hours spent in total
+Time spent: **7** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (https://glitch.com/edit/#!/automatic-oceanic-tulip?path=README.md%3A1%3A0)
 
 ## Required Functionality
 
@@ -63,7 +63,7 @@ Here's a walkthrough of implemented user stories:
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright Vi Thi Tuong Nguyen
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
